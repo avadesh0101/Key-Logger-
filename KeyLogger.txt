@@ -1,0 +1,6 @@
+.textcontent
+key down , key up
+.disabled
+e as argument
+e.key
+document.removeEventListner
